@@ -367,7 +367,8 @@ $CountryToLocality = array(
 	'Iran'			=> '47',
 	'Russia'		=> '48',
 	'Chile'			=> '49',
-	'Columbia'		=> '50',
+	'Colombia'		=> '50',
+	'Columbia'      => '50', // Obsolete
 	'Peru'			=> '51'
 );
 
